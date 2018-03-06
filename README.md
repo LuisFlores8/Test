@@ -1,2 +1,2 @@
 # Test
-Make sure Git is working
+Make sure Git is working after first commit
